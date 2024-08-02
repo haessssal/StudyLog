@@ -1,1 +1,1 @@
-# Study Log in SKKU
+# StudyLog
